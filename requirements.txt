@@ -1,0 +1,7 @@
+torch
+torchvision
+timm
+diffusers
+accelerate
+numpy
+tqdm
