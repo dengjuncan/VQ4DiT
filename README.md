@@ -1,4 +1,4 @@
-# VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers
+# [AAAI'25] VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers
 
 This repository contains the official implementation of the paper [VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers](https://arxiv.org/abs/2408.17131).
 
